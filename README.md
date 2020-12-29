@@ -1,6 +1,6 @@
 # Setup Script iSH AppStore Version/Testflight Version
 
-```bash
+```shell
 sh setup.sh
 ```
 
